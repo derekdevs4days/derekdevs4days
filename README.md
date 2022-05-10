@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="900" height="400" src="wp4831635-white-hexagons-wallpapers.jpg">
+  <img width="1200" height="400" src="wp4831635-white-hexagons-wallpapers.jpg">
 </p>
 
 
