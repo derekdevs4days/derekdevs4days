@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img width="900" height="400" src="https://giphy.com/embed/3o85xHmloKMcrir58k">
+  <img width="900" height="400" src="wp4831635-white-hexagons-wallpapers.jpg">
 </p>
 
-<iframe src="https://giphy.com/embed/3o85xHmloKMcrir58k" width="320" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hexagon-3o85xHmloKMcrir58k">via GIPHY</a></p>
 
 
 <h1 align="center">Hi 👋, I'm Derek</h1>
