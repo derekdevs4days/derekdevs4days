@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img width="1200" height="400" src="wp4831635-white-hexagons-wallpapers.jpg">
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm Derek</h1>
