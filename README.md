@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Javascript & Node.js.
 
-- 💬 Ask me about personal finance, investing, & real estate.
+- 💬 Ask me anything about personal finance, investing, & real estate.
 
 - 📫 How to reach me derektruongdev@gmail.com.
 
