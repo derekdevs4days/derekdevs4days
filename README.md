@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Derek</h1>
+<h1 align="center">Hi <img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/Wave.gif" height="55px" width="55px">, I'm Derek</h1>
+
 <h3 align="center">Paramedic turned developer during the pandemic.</h3>
 
 <h3 align="left">Connect with me:</h3>
