@@ -4,13 +4,14 @@
 
 
 - 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
- <img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="200px" width="300px" align="right">
 
 - 🌱 I’m currently learning Javascript & Node.js.
 
 - 💬 Ask me anything about personal finance, investing, & real estate.
 
 - 📫 How to reach me derektruongdev@gmail.com.
+
+ <img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="300px" width="400px" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
