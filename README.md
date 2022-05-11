@@ -2,6 +2,14 @@
 
 <h3 align="center">Paramedic turned developer during the pandemic.</h3>
 
+- 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
+
+- 🌱 I’m currently learning Javascript & Node.js.
+
+- 💬 Ask me about personal finance, investing, & real estate.
+
+- 📫 How to reach me derektruongdev@gmail.com.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/derektruong555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/derektruong555/" height="30" width="40" /></a>
