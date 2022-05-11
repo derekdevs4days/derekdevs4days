@@ -44,14 +44,14 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>COMING SOON</strong> - COMING SOON</p>
     </td>
   </tr>
   
@@ -59,37 +59,37 @@
     <td width="50%" valign="top">
       <h3 align="center">COMING SOON</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="#">
+          <img src="#" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>COMING SOON</strong> - COMING SOON</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">COMING SOON</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="#">
+          <img src="#" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="#"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>COMING SOON</strong> - COMING SOON</p>
     </td>
   </tr>
 </table>
