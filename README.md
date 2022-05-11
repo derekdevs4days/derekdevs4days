@@ -2,9 +2,8 @@
 
 <h3 align="center">Paramedic turned developer during the pandemic.</h3>
 
-<img src="github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" align="right">
-
 - 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
+ <img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif">
 
 - 🌱 I’m currently learning Javascript & Node.js.
 
