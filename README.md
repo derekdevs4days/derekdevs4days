@@ -19,7 +19,7 @@
       <h3 align="center">Every Mortgage</h3>
         <br />
         <a target="_blank" href="https://everymortgage.netlify.app">
-            <img src="images/gif2.gif" width="100%" alt="Mortgage Calculator"/>
+            <img src="img/gif2.gif" width="100%" alt="Mortgage Calculator"/>
         </a>
         <br />
         <p align="center">
