@@ -51,7 +51,7 @@
       <h3 align="center">YourJava Café</h3>
         <br />
       <a target="_blank" href="https://yourjavacafe.netlify.app/">
-            <img src="img/yourjava.gif" width="95%"  alt="Cozy coffee shop website"/>
+            <img src="img/yourjava.gif" width="94%"  alt="Cozy coffee shop website"/>
         </a>
         <br />
         <p align="center">
