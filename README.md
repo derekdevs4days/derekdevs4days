@@ -48,22 +48,22 @@
  </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">COMING SOON</h3>
+      <h3 align="center">YourJava Café</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="COMING SOON/>
+      <a target="_blank" href="https://yourjavacafe.netlify.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Cozy coffee shop website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
-    <img src="#"/>
+  <a href="https://github.com/derekdevs4days/YourJava-Cafe" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="#"/>
+  <a href="https://yourjavacafe.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white""/>
   </a>
       </p>
-        <p><strong>COMING SOON</strong> - COMING SOON</p>
+        <p><strong>HTML & CSS</strong> - A cozy mock landing page built from scratch for a tech-inspired coffee shop.</p>
     </td>
   </tr>
   
