@@ -39,7 +39,7 @@
       <h3 align="center">COMING SOON</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/gif2.gif" width="100%"  alt="COMING SOON/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@
       <h3 align="center">COMING SOON</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="Portfolio"/>
+          <img src="#" width="100%" alt="COMING SOON"/>
         </a>
       <br />
         <p align="center">
@@ -77,7 +77,7 @@
       <h3 align="center">COMING SOON</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="Matching Cards"/>
+          <img src="#" width="100%" alt="COMING SOON"/>
         </a>
         <br />
         <p align="center">
