@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/Wave.gif" height="50px" width="50px">  I'm Derek</h1>
 
 <h3 align="center">Paramedic turned developer during the pandemic.</h3>
-![image_processing20200625-3275-1d0cqry](https://user-images.githubusercontent.com/101954259/167931709-10523491-0a56-42ff-8872-7f408a20f0be.gif)
 
 
 - 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
