@@ -10,7 +10,7 @@
 - 💬 Ask me anything about personal finance, investing, & real estate.
 
 - 📫 How to reach me derektruongdev@gmail.com. 
-<img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="275px" width="375px" align="right">
+<img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="275px" width="375px" align="right top">
 
 
 
