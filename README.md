@@ -3,7 +3,7 @@
 <h3 align="center">Paramedic turned developer during the pandemic.</h3>
 
 <p align="center">
-<img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="375px" width="500px">
+<img src="https://github.com/derekdevs4days/derekdevs4days/blob/main/img/coding.gif" height="300px" width="425px">
 </p>
 
 - 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
