@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a full stack web app to help AirBnb hosts!
 
-- 🌱 I’m currently learning Javascript & Node.js.
+- 🌱 I’m currently learning Node.js.
  
 - 💬 Ask me anything about personal finance, investing, & real estate.
 
